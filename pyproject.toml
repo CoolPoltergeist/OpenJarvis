@@ -46,7 +46,7 @@ tools-search = [
 memory-faiss = [
     "faiss-cpu>=1.7",
     "sentence-transformers>=2.2",
-    "numpy>=1.24",
+    "numpy>=2.3.2",
 ]
 memory-colbert = [
     "colbert-ai>=0.2",
